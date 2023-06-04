@@ -1,0 +1,3 @@
+C:/Users/shaha/CLionProjects/packman/cmake-build-debug/CMakeFiles/packman.dir
+C:/Users/shaha/CLionProjects/packman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shaha/CLionProjects/packman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
